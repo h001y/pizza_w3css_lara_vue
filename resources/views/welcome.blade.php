@@ -28,7 +28,6 @@
     </div>
 </div>
 
-<!-- Header with image -->
 <header class="bgimg w3-display-container w3-grayscale-min" id="home">
     <div class="w3-display-bottomleft w3-padding">
         <span class="w3-tag w3-xlarge">Open from 10am to 12pm</span>
